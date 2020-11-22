@@ -1,0 +1,5 @@
+beautifulsoup4
+RPi.GPIO
+rpimotorlib
+schedule
+

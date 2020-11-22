@@ -1,0 +1,9 @@
+version: '2'
+services:
+  server:
+    image: flom
+    build: ./flom
+    devices:
+      - "/dev/mem:/dev/mem"
+    privileged: true
+
